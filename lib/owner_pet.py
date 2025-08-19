@@ -1,5 +1,4 @@
 class Pet:
-    # Allowed pet types
     PET_TYPES = ["dog", "cat", "rodent", "bird", "reptile", "exotic"]
     
     all = []
